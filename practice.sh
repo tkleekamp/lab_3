@@ -13,6 +13,10 @@ echo "The product is: $prod"
 echo "File Name: $0"
 echo "Command Line Argument 1: $1"
 grep $1 $2
+<<<<<<< HEAD
+=======
+
+>>>>>>> 831d32e1aa1d747b6af3ecbc90eec073969740e4
 
 
 
